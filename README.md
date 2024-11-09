@@ -43,10 +43,13 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=08CF06&width=435&lines=Thank+you+for+visiting!!)](https://git.io/typing-svg)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sounak_syn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sounak_syn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sounak-pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sounak-pal" height="30" width="40" /></a>
+<a href="https://instagram.com/sounak.mp4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sounak.mp4" height="30" width="40" /></a>
+</p>
 
 ###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syntherat&show_icons=true&locale=en" alt="syntherat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syntherat&" alt="syntherat" /></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=08CF06&width=435&lines=Thank+you+for+visiting!!)](https://git.io/typing-svg)
