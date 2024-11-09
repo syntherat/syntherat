@@ -46,3 +46,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=08CF06&width=435&lines=Thank+you+for+visiting!!)](https://git.io/typing-svg)
 
 ###
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syntherat&show_icons=true&locale=en" alt="syntherat" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syntherat&" alt="syntherat" /></p>
