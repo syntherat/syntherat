@@ -1,7 +1,7 @@
 <h1 align="left">Hey, I'm Sounak! 😎 ^_^</h1>
 
 🔹 I am a Computer Science undergrad venturing through the world of tech. 🧑‍💻  
-🔹 I am aiming to achieve the skillbase of a Full Stack Web Developer while also part-timing with Video Editing.  
+🔹 I am a Full Stack Web Developer.  
 🔹 I like to read as well. 📚  
 
 🌐 <strong>Portfolio:</strong> <a href="https://sounakpal.dev" target="_blank">https://sounakpal.dev</a>
